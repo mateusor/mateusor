@@ -4,11 +4,10 @@ Me chamo Mateus e sou estudante de **Engenharia de Software**. Apaixonado por te
 
 ### 💡 Sobre mim:
 - 🎓 Atualmente cursando Engenharia de Software na Puc-Campinas
-- 🧠 Em constante aprendizado sobre desenvolvimento web, banco de dados e segurança da informação
+- 🧠 Em constante aprendizado sobre desenvolvimento web, banco de dados, resolução de problemas complexos, trabalho em equipe e práticas ágeis
 - 💼 Buscando oportunidades de colaborar em projetos que gerem impacto real
 - 🤝 Aberto a colaborações e trocas de conhecimento
 
-  ## 🌐 Me encontre por aqui:
 
 ## 🌐 Me encontre por aqui:
 
