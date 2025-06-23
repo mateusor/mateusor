@@ -27,7 +27,7 @@ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositóri
 
 ## 📊 Minhas Estatísticas
 
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusor&show_icons=true&theme=shadow_red&locale=pt-br&count_private=true)
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusor&show_icons=true&theme=shadow_red&locale=pt-br&count_private=true&cache_seconds=60)
 
 ---
 
