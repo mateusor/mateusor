@@ -33,6 +33,6 @@ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositóri
 
 ## 👨‍💻 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusor&layout=compact&theme=shadow_red&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusor&layout=compact&theme=shadow_red&locale=pt-br&cache_seconds=60)
 
 ---
