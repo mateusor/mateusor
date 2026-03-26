@@ -15,10 +15,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I am a Software Engineering student at PUC-Campinas with interest in software development, databases, backend development and mobile applications.
-I am always learning new technologies, building projects and improving my problem solving and programming skills.
+I'm Mateus, a Software Engineering student at PUC-Campinas who enjoys building solutions, learning new technologies, and turning ideas into real projects.
+
+I'm especially interested in backend development, databases, and mobile applications, and I'm always looking for opportunities to grow and challenge myself.
 
 ---
 
@@ -66,14 +67,7 @@ I am always learning new technologies, building projects and improving my proble
 * Work with backend development
 * Build scalable systems
 * Contribute to real-world projects
-* Continuously improve programming and architecture skills
-
----
-
-## 📫 Contact
-
-* LinkedIn: https://www.linkedin.com/in/mateus-oliveira-223868364/
-* Email: [mateus.eletrocastelo@gmail.com](mailto:mateus.eletrocastelo@gmail.com)
+* Continuously improve my skills
 
 ---
 
