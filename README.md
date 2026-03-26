@@ -6,7 +6,7 @@ Hi! My name is **Mateus Oliveira**, and I am a **Software Engineering student** 
 ---
 
 # 🎓 About Me
-- 🎓 Software Engineering student at **PUC-Campinas**
+- 🎓 Software Engineering student at PUC-Campinas
 - 💻 Interested in software development, databases, and mobile applications
 - 📚 Always learning new technologies and programming concepts
 - 🤝 Open to collaborations and new projects
@@ -52,7 +52,6 @@ Hi! My name is **Mateus Oliveira**, and I am a **Software Engineering student** 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-oliveira-223868364/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matt8r/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.eletrocastelo@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateusor)
 
 ---
 
