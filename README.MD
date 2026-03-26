@@ -1,7 +1,11 @@
 <h1 align="center">Mateus Oliveira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF4B4B&size=25&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Enthusiast;Flutter+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=E0E0E0&size=26&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Enthusiast;Flutter+Developer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <b style="color:#B0B0B0;">Building solutions • Learning constantly • Growing every day</b>
 </p>
 
 <p align="center">
@@ -83,3 +87,4 @@ Currently focused on backend development, databases and mobile applications.
 ---
 
 ⭐ From <a href="https://github.com/mateusor">mateusor</a>
+
