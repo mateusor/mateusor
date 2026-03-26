@@ -1,5 +1,8 @@
 <h1 align="center">Mateus Oliveira</h1>
-<h3 align="center">Software Engineering Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Enthusiast;Flutter+Developer;Always+Learning+New+Things" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateus-oliveira-223868364/">
@@ -17,9 +20,10 @@
 
 ## 👋 About Me
 
-I'm Mateus, a Software Engineering student at PUC-Campinas who enjoys building solutions, learning new technologies, and turning ideas into real projects.
+Hey! I'm Mateus, a Software Engineering student who enjoys building things that actually work.
 
-I'm especially interested in backend development, databases, and mobile applications, and I'm always looking for opportunities to grow and challenge myself.
+I like turning ideas into real projects, exploring new technologies, and constantly improving my skills.
+Currently focused on backend development, databases and mobile applications.
 
 ---
 
@@ -67,7 +71,6 @@ I'm especially interested in backend development, databases, and mobile applicat
 * Work with backend development
 * Build scalable systems
 * Contribute to real-world projects
-* Continuously improve my skills
 
 ---
 
