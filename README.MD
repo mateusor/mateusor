@@ -17,16 +17,37 @@
 
 ## 👨‍💻 About Me
 
-Software Engineering student at PUC-Campinas, focused on software development, databases and mobile applications.
-Always learning, building projects and improving problem solving skills.
+I am a Software Engineering student at PUC-Campinas with interest in software development, databases, backend development and mobile applications.
+I am always learning new technologies, building projects and improving my problem solving and programming skills.
+
+---
+
+## 🚀 Featured Projects
+
+* 📊 Database System Project
+* 📱 Flutter Mobile Application
+* 🧮 Algorithms and Data Structures
+* 🐍 Python Projects
+* 📚 Software Engineering Notes
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,js,ts,c,html,css,flutter,mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=dart,python,js,ts,c,html,css,flutter,mysql,postgres,sqlite,git" />
 </p>
+
+---
+
+## 📚 Currently Learning
+
+* Software Architecture
+* Design Patterns
+* Clean Code
+* REST APIs
+* Cloud Computing
+* Data Structures and Algorithms
 
 ---
 
@@ -39,12 +60,20 @@ Always learning, building projects and improving problem solving skills.
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Goals
 
-* Become a strong software developer
-* Work with software engineering and backend development
-* Contribute to real projects
-* Continuously learn new technologies
+* Become a Software Engineer
+* Work with backend development
+* Build scalable systems
+* Contribute to real-world projects
+* Continuously improve programming and architecture skills
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/mateus-oliveira-223868364/
+* Email: [mateus.eletrocastelo@gmail.com](mailto:mateus.eletrocastelo@gmail.com)
 
 ---
 
