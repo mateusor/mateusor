@@ -1,4 +1,3 @@
-```md id="ghp001"
 <h1 align="center">Hi 👋, I'm Mateus Oliveira</h1>
 <h3 align="center">Software Engineering Student</h3>
 
@@ -17,17 +16,19 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Software Engineering student at PUC-Campinas  
-- 💻 Interested in software development, databases, and mobile applications  
-- 📚 Always learning new technologies and programming concepts  
-- 🤝 Open to collaborations and new projects  
-- 🚀 Looking for internship opportunities  
+
+* 🎓 Software Engineering student at PUC-Campinas
+* 💻 Interested in software development, databases, and mobile applications
+* 📚 Always learning new technologies and programming concepts
+* 🤝 Open to collaborations and new projects
+* 🚀 Looking for internship opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,18 +39,20 @@
 </p>
 
 ### 🌐 Web Development
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 📱 Mobile Development
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -59,11 +62,13 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mateusor&show_icons=true&theme=shadow_red" />
 </p>
 
 ## 👨‍💻 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusor&layout=compact&theme=shadow_red" />
 </p>
@@ -71,13 +76,9 @@
 ---
 
 ## 🚀 Goals
-- Become a great software developer
-- Contribute to open source
-- Get a software engineering internship
-- Build useful projects
-- Learn software architecture and cloud computing
 
----
-
-⭐ From [mateusor](https://github.com/mateusor)
-```
+* Become a great software developer
+* Contribute to open source
+* Get a software engineering internship
+* Build useful projects
+* Learn software architecture and cloud computing
