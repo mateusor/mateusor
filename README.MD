@@ -1,7 +1,7 @@
 <h1 align="center">Mateus Oliveira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Enthusiast;Flutter+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF4B4B&size=25&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Enthusiast;Flutter+Developer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -61,6 +61,14 @@ Currently focused on backend development, databases and mobile applications.
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateusor&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusor&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateusor/mateusor/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
