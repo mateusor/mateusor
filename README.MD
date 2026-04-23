@@ -69,13 +69,7 @@ Currently focused on backend development, databases and mobile applications.
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mateusor/mateusor/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🎯 Career Goals
 
