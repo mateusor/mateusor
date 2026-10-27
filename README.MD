@@ -54,9 +54,9 @@ Cada semestre tem um repositório próprio, organizado por disciplina.
 | Semestre | Destaques | Repositório |
 | :---: | :--- | :---: |
 | 1º | Algoritmos em Python · Banco de Dados (SQL) · Arduino e ESP32<br/><sub>Trabalhos: [Sistema de Passagens Aéreas](https://github.com/mateusor/Projeto-Passagem-Voos) · [Jogo Secreto](https://github.com/mateusor/Projeto-Jogo-Secreto)</sub> | [Primeiro Semestre](https://github.com/mateusor/Primeiro-Semestre-ENG-de-Software) |
-| 2º | Algoritmos em C · Estrutura e Recuperação de Dados · Engenharia de Requisitos · Banco de Dados · Web com TypeScript | [Segundo Semestre](https://github.com/mateusor/Segundo-Semestre_Eng_Software) |
-| 3º | Desenvolvimento Mobile com Flutter · Arquitetura e Organização de Computadores (MIPS Assembly) | [Terceiro Semestre](https://github.com/mateusor/Terceiro_Semestre_Eng_Software) |
-| 4º | POO em Java · Banco de Dados II (MongoDB) · Tecnologias para Web | [Quarto Semestre](https://github.com/mateusor/Quarto-Semestre-ENG-de-Software) |
+| 2º | Algoritmos em C · Estrutura e Recuperação de Dados · Engenharia de Requisitos · Banco de Dados · Web com TypeScript<br/><sub>Projeto Integrador II: [NotaDez](https://github.com/mateusor/NotaDez)</sub> | [Segundo Semestre](https://github.com/mateusor/Segundo-Semestre_Eng_Software) |
+| 3º | Desenvolvimento Mobile com Flutter · Arquitetura e Organização de Computadores (MIPS Assembly)<br/><sub>Projeto Integrador III: [MesclaInvest](https://github.com/mateusor/MesclaInvest)</sub> | [Terceiro Semestre](https://github.com/mateusor/Terceiro_Semestre_Eng_Software) |
+| 4º | POO em Java · Banco de Dados II (MongoDB) · Tecnologias para Web<br/><sub>Projeto Integrador IV: [AlugaMáquina](https://github.com/lucaxaviers/PI_IV-TIME-31)</sub> | [Quarto Semestre](https://github.com/mateusor/Quarto-Semestre-ENG-de-Software) |
 
 **Em estudo agora:** Java e POO · MongoDB e Oracle · Assembly MIPS · arquitetura de software e design patterns · Flutter avançado
 
