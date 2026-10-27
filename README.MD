@@ -1,87 +1,94 @@
-<h1 align="center">E aí, sou o Mateus 👨‍💻</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=E0E0E0&size=24&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Full+Stack;Apaixonado+por+Flutter+%26+Firebase;Aprendendo+algo+novo+todo+dia" />
-</p>
+# Mateus Oliveira
 
-<p align="center">
-  <i>Transformando ideias em código • Evoluindo a cada projeto</i>
-</p>
+**Engenharia de Software · PUC-Campinas**<br/>
+Desenvolvedor Full Stack · Mobile (Flutter) e Web (Next.js)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mateus-oliveira-223868364/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mateus.eletrocastelo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mateusor">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=8B949E&size=18&center=true&vCenter=true&width=600&height=40&lines=Do+rascunho+ao+deploy%3A+produto+funcionando+de+verdade;Flutter+%2B+Firebase+no+mobile;Next.js+%2B+TypeScript+na+web" alt="Apresentação" />
 
-<br>
+<a href="https://www.linkedin.com/in/mateus-oliveira-223868364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mateus.eletrocastelo@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<img src="https://img.shields.io/badge/Campinas%2C%20SP-30363D?style=flat-square&logo=googlemaps&logoColor=white" alt="Campinas, SP"/>
+</div>
 
-## 🙋‍♂️ Um pouco sobre mim
+---
 
-Estou cursando **Engenharia de Software** na PUC-Campinas e trabalho como **desenvolvedor full stack**, atendendo clientes de forma independente enquanto estudo.
+### Sobre
 
-Curto pegar uma ideia e levar ela até virar produto de verdade — desde pensar a arquitetura até colocar no ar. No dia a dia uso bastante **Flutter/Firebase** pra mobile e **Next.js/TypeScript** pra web, e venho me aprofundando em **Java**, banco de dados e fundamentos de **arquitetura de computadores** como parte da grade da faculdade.
+Estudante de Engenharia de Software na PUC-Campinas e desenvolvedor full stack independente. Atendo clientes enquanto curso a graduação, o que me faz passar por todas as etapas de um projeto: entender o problema, desenhar a arquitetura, implementar e colocar em produção.
 
-<br>
+No mobile trabalho com **Flutter e Firebase**. Na web, com **Next.js e TypeScript**. Na faculdade venho consolidando a base: orientação a objetos em Java, bancos relacionais e NoSQL, arquitetura de computadores e padrões de projeto.
 
-## 🛠️ Tecnologias que uso e estudo
+**Objetivo:** atuar como engenheiro de software full stack, com foco em arquitetura de sistemas escaláveis e em produtos que resolvem problemas reais.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,python,java,c,dart,flutter,firebase,mongodb,oracle,mysql,git,figma" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MIPS-000000?style=for-the-badge&logo=risc-v&logoColor=white"/>
-</p>
+### Projetos em destaque
 
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mateusor/MesclaInvest">MesclaInvest</a></h4>
+      <sub>Projeto Integrador III</sub>
+      <p>Aplicativo mobile para negociação P2P de tokens de startups, com catálogo, carteira digital em tempo real, dashboard com gráficos próprios e regras de negócio em Cloud Functions.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mateusor/NotaDez">NotaDez</a></h4>
+      <sub>Projeto Integrador II</sub>
+      <p>Sistema web de gestão acadêmica para professores, com cadastro de turmas e disciplinas, importação de alunos por CSV/JSON, cálculo de notas com fórmula configurável e histórico de alterações.</p>
+      <img src="https://img.shields.io/badge/Web-30363D?style=flat-square&logo=googlechrome&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSV%20%2F%20JSON-30363D?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
-## 🏆 Projetos que já desenvolvi
+---
 
-| Projeto | O que é |
-|---|---|
-| **[MesclaInvest (PI III)](https://github.com/mateusor/MesclaInvest)** | App mobile em **Flutter + Firebase** pra negociação P2P de tokens de startups — tem catálogo, carteira digital com dados em tempo real, dashboard com gráficos próprios e **Cloud Functions** para as regras de negócio. |
-| **[NotaDez (PI II)](https://github.com/mateusor/NotaDez)** | Sistema web pra gestão acadêmica, feito pra facilitar a vida de professores: cadastro de turmas e disciplinas, importação de alunos via CSV/JSON, cálculo automático de notas com fórmula configurável e histórico de alterações. |
+### Stack
 
-> 📁 Dá uma olhada na aba de **[Repositórios](https://github.com/mateusor?tab=repositories)** pra ver o código-fonte completo.
->
-> 🔜 Essa tabela vai crescer conforme eu for terminando novos projetos.
+| Área | Tecnologias |
+| :--- | :--- |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="34"/> |
+| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,bootstrap" height="34"/> |
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=java,python,c" height="34"/> &nbsp; ![Assembly MIPS](https://img.shields.io/badge/Assembly%20MIPS-654FF0?style=flat-square) |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="34"/> &nbsp; ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,figma" height="34"/> |
 
-<br>
+---
 
-## 📚 No que estou me aprofundando agora
+### Trajetória acadêmica
 
-- ☕ Java e programação orientada a objetos
-- 🗄️ Bancos de dados relacionais e não relacionais (MongoDB, Oracle)
-- ⚙️ Arquitetura de computadores e Assembly MIPS
-- 🏗️ Arquitetura de software e design patterns
-- 📱 Flutter avançado
+Cada semestre tem um repositório próprio, organizado por disciplina.
 
-<br>
+| Semestre | Destaques | Repositório |
+| :---: | :--- | :---: |
+| 1º | Algoritmos em Python · Banco de Dados (SQL) · Arduino e ESP32 · Projeto Integrador I | [Abrir](https://github.com/mateusor/Primeiro-Semestre-ENG-de-Software) |
+| 2º | Projeto Integrador II ([NotaDez](https://github.com/mateusor/NotaDez)) | em organização |
+| 3º | Projeto Integrador III ([MesclaInvest](https://github.com/mateusor/MesclaInvest)) | em organização |
+| 4º | POO em Java · Banco de Dados II (MongoDB) · Tecnologias para Web | [Abrir](https://github.com/mateusor/Quarto-Semestre-ENG-de-Software) |
 
-## 📊 Estatísticas do GitHub
+**Em estudo agora:** Java e POO · MongoDB e Oracle · Assembly MIPS · arquitetura de software e design patterns · Flutter avançado
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mateusor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusor&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
-<br>
+### Atividade
 
-## 🎯 Onde quero chegar
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mateusor&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" alt="Estatísticas do GitHub"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusor&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusor/mateusor/output/github-contribution-grid-snake-dark.svg">
+    <img width="100%" alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/mateusor/mateusor/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-- 💼 Trabalhar como engenheiro de software full stack
-- 🏛️ Aprofundar em arquitetura de sistemas escaláveis
-- 🌍 Contribuir com projetos open source
-- 🚀 Construir produtos que resolvam problemas de verdade
+---
 
-<br>
-
-<p align="center">⭐ From <a href="https://github.com/mateusor">mateusor</a></p>
+<div align="center">
+  <sub>Tem um projeto ou uma vaga em mente? Me chama no <a href="https://www.linkedin.com/in/mateus-oliveira-223868364/">LinkedIn</a> ou por <a href="mailto:mateus.eletrocastelo@gmail.com">e-mail</a>.</sub>
+</div>
