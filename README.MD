@@ -24,11 +24,11 @@ No mobile trabalho com **Flutter e Firebase**. Na web, com **Next.js e TypeScrip
 
 | | Projeto | O que é | Stack | Status |
 | :---: | :--- | :--- | :--- | :---: |
-| **PI IV** | [**AlugaMáquina**](https://github.com/lucaxaviers/PI_IV-TIME-31) | Plataforma de locação e gestão de máquinas e equipamentos para agronegócio, construção civil e indústria. Arquitetura cliente-servidor em Java, persistência em MongoDB e testes unitários com JUnit | Java · MongoDB · JUnit | 🔴 em andamento |
-| **Extra** | [**Acompanhamento de Demandas**](https://github.com/rafaelmvalente/PI-II-TIME-15) | Gestão de tarefas, bugs e melhorias por projeto, com responsáveis, prazos, comentários e histórico | TypeScript · Express | 🔴 em andamento |
-| **PI III** | [**MesclaInvest**](https://github.com/mateusor/MesclaInvest) | App de negociação P2P de tokens de startups, com carteira digital em tempo real, dashboard e regras de negócio em Cloud Functions | Flutter · Firebase | ✔️ concluído |
-| **PI II** | [**NotaDez**](https://github.com/mateusor/NotaDez) | Sistema de gestão acadêmica para professores: turmas, importação de alunos por CSV/JSON, fórmulas de nota configuráveis e auditoria | Web | ✔️ concluído |
-| **PI I** | [**Sustentabilidade**](https://github.com/mateusor/Primeiro-Semestre-ENG-de-Software/tree/main/ProjetoIntegrador) | Registro diário de práticas sustentáveis (água, energia, resíduos e transporte), com cálculo de índices e dados criptografados | Python · MySQL | ✔️ concluído |
+| **PI IV** | <a href="https://github.com/lucaxaviers/PI_IV-TIME-31"><img src="https://img.shields.io/badge/AlugaM%C3%A1quina-E5484D?style=flat-square" alt="AlugaMáquina"/></a> | Plataforma de locação e gestão de máquinas e equipamentos para agronegócio, construção civil e indústria. Arquitetura cliente-servidor em Java, persistência em MongoDB e testes unitários com JUnit | Java · MongoDB · JUnit | 🔴 em andamento |
+| **Extra** | <a href="https://github.com/rafaelmvalente/PI-II-TIME-15"><img src="https://img.shields.io/badge/Acompanhamento%20de%20Demandas-E5484D?style=flat-square" alt="Acompanhamento de Demandas"/></a> | Gestão de tarefas, bugs e melhorias por projeto, com responsáveis, prazos, comentários e histórico | TypeScript · Express | 🔴 em andamento |
+| **PI III** | <a href="https://github.com/mateusor/MesclaInvest"><img src="https://img.shields.io/badge/MesclaInvest-E5484D?style=flat-square" alt="MesclaInvest"/></a> | App de negociação P2P de tokens de startups, com carteira digital em tempo real, dashboard e regras de negócio em Cloud Functions | Flutter · Firebase | ✔️ concluído |
+| **PI II** | <a href="https://github.com/mateusor/NotaDez"><img src="https://img.shields.io/badge/NotaDez-E5484D?style=flat-square" alt="NotaDez"/></a> | Sistema de gestão acadêmica para professores: turmas, importação de alunos por CSV/JSON, fórmulas de nota configuráveis e auditoria | Web | ✔️ concluído |
+| **PI I** | <a href="https://github.com/mateusor/Primeiro-Semestre-ENG-de-Software/tree/main/ProjetoIntegrador"><img src="https://img.shields.io/badge/Sustentabilidade-E5484D?style=flat-square" alt="Sustentabilidade"/></a> | Registro diário de práticas sustentáveis (água, energia, resíduos e transporte), com cálculo de índices e dados criptografados | Python · MySQL | ✔️ concluído |
 
 <sub>O projeto **Extra** é desenvolvido em paralelo ao PI IV, sem valer nota.</sub>
 
@@ -53,10 +53,10 @@ Cada semestre tem um repositório próprio, organizado por disciplina.
 
 | Semestre | Destaques | Repositório |
 | :---: | :--- | :---: |
-| 1º | Algoritmos em Python · Banco de Dados (SQL) · Arduino e ESP32<br/><sub>Trabalhos: [Sistema de Passagens Aéreas](https://github.com/mateusor/Projeto-Passagem-Voos) · [Jogo Secreto](https://github.com/mateusor/Projeto-Jogo-Secreto)</sub> | [Primeiro Semestre](https://github.com/mateusor/Primeiro-Semestre-ENG-de-Software) |
-| 2º | Algoritmos em C · Estrutura e Recuperação de Dados · Engenharia de Requisitos · Banco de Dados · Web com TypeScript<br/><sub>Projeto Integrador II: [NotaDez](https://github.com/mateusor/NotaDez)</sub> | [Segundo Semestre](https://github.com/mateusor/Segundo-Semestre_Eng_Software) |
-| 3º | Desenvolvimento Mobile com Flutter · Arquitetura e Organização de Computadores (MIPS Assembly)<br/><sub>Projeto Integrador III: [MesclaInvest](https://github.com/mateusor/MesclaInvest)</sub> | [Terceiro Semestre](https://github.com/mateusor/Terceiro_Semestre_Eng_Software) |
-| 4º | POO em Java · Banco de Dados II (MongoDB) · Tecnologias para Web<br/><sub>Projeto Integrador IV: [AlugaMáquina](https://github.com/lucaxaviers/PI_IV-TIME-31)</sub> | [Quarto Semestre](https://github.com/mateusor/Quarto-Semestre-ENG-de-Software) |
+| 1º | Algoritmos em Python · Banco de Dados (SQL) · Arduino e ESP32<br/><sub>Trabalhos: <a href="https://github.com/mateusor/Projeto-Passagem-Voos"><img src="https://img.shields.io/badge/Sistema%20de%20Passagens%20A%C3%A9reas-E5484D?style=flat-square" alt="Sistema de Passagens Aéreas"/></a> · <a href="https://github.com/mateusor/Projeto-Jogo-Secreto"><img src="https://img.shields.io/badge/Jogo%20Secreto-E5484D?style=flat-square" alt="Jogo Secreto"/></a></sub> | <a href="https://github.com/mateusor/Primeiro-Semestre-ENG-de-Software"><img src="https://img.shields.io/badge/Abrir-E5484D?style=for-the-badge&logo=github&logoColor=white" alt="Abrir"/></a> |
+| 2º | Algoritmos em C · Estrutura e Recuperação de Dados · Engenharia de Requisitos · Banco de Dados · Web com TypeScript<br/><sub>Projeto Integrador II: <a href="https://github.com/mateusor/NotaDez"><img src="https://img.shields.io/badge/NotaDez-E5484D?style=flat-square" alt="NotaDez"/></a></sub> | <a href="https://github.com/mateusor/Segundo-Semestre_Eng_Software"><img src="https://img.shields.io/badge/Abrir-E5484D?style=for-the-badge&logo=github&logoColor=white" alt="Abrir"/></a> |
+| 3º | Desenvolvimento Mobile com Flutter · Arquitetura e Organização de Computadores (MIPS Assembly)<br/><sub>Projeto Integrador III: <a href="https://github.com/mateusor/MesclaInvest"><img src="https://img.shields.io/badge/MesclaInvest-E5484D?style=flat-square" alt="MesclaInvest"/></a></sub> | <a href="https://github.com/mateusor/Terceiro_Semestre_Eng_Software"><img src="https://img.shields.io/badge/Abrir-E5484D?style=for-the-badge&logo=github&logoColor=white" alt="Abrir"/></a> |
+| 4º | POO em Java · Banco de Dados II (MongoDB) · Tecnologias para Web<br/><sub>Projeto Integrador IV: <a href="https://github.com/lucaxaviers/PI_IV-TIME-31"><img src="https://img.shields.io/badge/AlugaM%C3%A1quina-E5484D?style=flat-square" alt="AlugaMáquina"/></a></sub> | <a href="https://github.com/mateusor/Quarto-Semestre-ENG-de-Software"><img src="https://img.shields.io/badge/Abrir-E5484D?style=for-the-badge&logo=github&logoColor=white" alt="Abrir"/></a> |
 
 **Em estudo agora:** Java e POO · MongoDB e Oracle · Assembly MIPS · arquitetura de software e design patterns · Flutter avançado
 
@@ -77,5 +77,7 @@ Cada semestre tem um repositório próprio, organizado por disciplina.
 ---
 
 <div align="center">
-  <sub>Tem um projeto ou uma vaga em mente? Me chama no <a href="https://www.linkedin.com/in/mateus-oliveira-223868364/">LinkedIn</a> ou por <a href="mailto:mateus.eletrocastelo@gmail.com">e-mail</a>.</sub>
+  <sub>Tem um projeto ou uma vaga em mente? Vamos conversar.</sub><br/><br/>
+  <a href="https://www.linkedin.com/in/mateus-oliveira-223868364/"><img src="https://img.shields.io/badge/LinkedIn-E5484D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mateus.eletrocastelo@gmail.com"><img src="https://img.shields.io/badge/E--mail-E5484D?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
 </div>
