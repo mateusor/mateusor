@@ -65,13 +65,10 @@ Cada semestre tem um repositório próprio, organizado por disciplina.
 ### Atividade
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mateusor&show_icons=true&hide_border=true&count_private=true&hide_title=true&bg_color=111111&text_color=D4D4D8&icon_color=E5484D&title_color=E5484D" alt="Estatísticas do GitHub"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusor&layout=compact&hide_border=true&bg_color=111111&text_color=D4D4D8&title_color=E5484D" alt="Linguagens mais usadas"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=mateusor&locale=pt_BR&hide_border=true&border_radius=6&background=111111&stroke=27272A&ring=E5484D&fire=E5484D&currStreakNum=FAFAFA&currStreakLabel=E5484D&sideNums=FAFAFA&sideLabels=A1A1AA&dates=71717A" alt="Sequência de contribuições"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusor&layout=compact&hide_border=true&bg_color=111111&text_color=D4D4D8&title_color=E5484D&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas"/>
   <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusor/mateusor/output/github-contribution-grid-snake-dark.svg">
-    <img width="100%" alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/mateusor/mateusor/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusor&bg_color=111111&color=A1A1AA&title_color=E5484D&line=E5484D&point=FAFAFA&area=true&area_color=E5484D&hide_border=true&radius=6&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2030%20dias" alt="Gráfico de contribuições"/>
 </div>
 
 ---
