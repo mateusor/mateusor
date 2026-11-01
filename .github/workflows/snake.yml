@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: mateusor
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#C8102E
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E5484D
+            dist/github-contribution-grid-snake.svg?color_snake=#C8102E&color_dots=#EBEDF0,#F8C9CB,#EF8F93,#E5484D,#A3181D
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FAFAFA&color_dots=#1C1C1F,#5C1D20,#8E2A2E,#C13A3F,#E5484D
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:

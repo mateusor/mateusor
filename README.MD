@@ -69,6 +69,11 @@ Cada semestre tem um repositório próprio, organizado por disciplina.
   <img height="180" src="./assets/linguagens.svg" alt="Linguagens mais usadas"/>
   <br/><br/>
   <img width="560" src="./assets/atividade.svg" alt="Atividade nos últimos 6 meses"/>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusor/mateusor/output/github-contribution-grid-snake-dark.svg">
+    <img width="100%" alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/mateusor/mateusor/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
